@@ -64,33 +64,42 @@
 
 /*section3*/
 .img2{
+    position:relative;
     height:40em;
     width: 100%;
     margin: 0;
     background-size:cover;
     background-repeat: no-repeat;
-   
-   
 }
 
+.savedate{
+    position: absolute;
+    top: 3em;
+    left: 40%;
+    font-size: 5em;
+}
+.timer{
+    position: absolute;
+    left: 40%;
+    top: 8em;
+    color: white;
+}
+.content1{
+    position: absolute;
+    bottom: 12em;
+    left: 10em;
+    right: 10em;
+    font-size: 1em;
+}
+   
+   
 
 
-.container1 {
-    position: relative;
-    width:100%; /* Maximum width */
-    margin: 0 auto; /* Center it */
-    font-size:1em;
-  }
+
+
+
   
-  .container1 .content1 {
-    position: absolute; /* Position the background text */
-    bottom: 0; /* At the bottom. Use top:0 to append it to the top */
-    background: rgb(0, 0, 0); /* Fallback color */
-    background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
-    color: #f1f1f1; /* Grey text */
-    width: 100%; /* Full width */
-    padding: 5em; /* Some padding */
-  }
+  
    
   /*section4*/
   .img3{
@@ -138,29 +147,26 @@
     width: 34em;
    border-radius:1rem;
 }
+
 .eng5{
+    position: relative;
     height:30em;
     width:70em;
+    opacity:0.6;
+
     
    
 }
-.container2{
-    position: relative;
-    font-family: 'Roboto', sans-serif;
-}
-
-.container2 .content2 {
-    position: absolute; /* Position the background text */
-    bottom: 0; /* At the bottom. Use top:0 to append it to the top */
-    background: rgb(0, 0, 0); /* Fallback color */
-    background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
-    color: #f1f1f1; /* Grey text */
-    width: 100%; /* Full width */
-    padding: 6em; /* Some padding */
-  }
 
   .font{
+      position: absolute;
+      left: 10em;
+      right: 10em;
+      top: 70%;
+      font-size: 1em;
     font-family: 'Roboto', sans-serif;
+    color: white;
+    
   }
 
   .footer-text{
