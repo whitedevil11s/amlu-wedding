@@ -75,12 +75,12 @@
 .savedate{
     position: absolute;
     top: 3em;
-    left: 35%;
+    left: 30%;
     font-size: 5em;
 }
 .timer{
     position: absolute;
-    left: 35%;
+    left: 30%;
     top: 8em;
     color: white;
 }
