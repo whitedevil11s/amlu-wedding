@@ -1,0 +1,173 @@
+
+.body{
+    margin: 0;
+}
+
+
+
+.black{
+    background-color: black;
+}
+.color{
+    color: black;
+}
+.white{
+    background-color: white;
+}
+.white-color{
+    color: white;
+
+}
+.amlu-wallpaper1{
+    width:41em;
+    height:50em;
+    position: relative;
+   
+}
+
+/*navebar start here */
+
+
+.topnav {
+    position: absolute;
+    top: 2em;
+    left: 2em;
+    color: white;
+    font-weight: bolder;
+    font-size: large;
+  }
+  ul.nav a:hover { color:rgb(11, 235, 205)!important; }
+
+   
+  
+ 
+
+  .wallpaper-text{
+      position:absolute;
+      top: 60%;
+      left: 22%;
+      color: white;
+     font-size: 5em; 
+  }
+      
+     
+
+      
+      
+  
+/*section 2*/
+.img1{
+    height:28em;
+    width: 38em;
+    border-radius: 1em;
+}
+
+/*section3*/
+.img2{
+    height:40em;
+    width: 100%;
+    margin: 0;
+    background-size:cover;
+    background-repeat: no-repeat;
+   
+   
+}
+
+
+
+.container1 {
+    position: relative;
+    width:100%; /* Maximum width */
+    margin: 0 auto; /* Center it */
+    font-size:1em;
+  }
+  
+  .container1 .content1 {
+    position: absolute; /* Position the background text */
+    bottom: 0; /* At the bottom. Use top:0 to append it to the top */
+    background: rgb(0, 0, 0); /* Fallback color */
+    background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+    color: #f1f1f1; /* Grey text */
+    width: 100%; /* Full width */
+    padding: 10em; /* Some padding */
+  }
+   
+  /*section4*/
+  .img3{
+    background-image: url("https://media2.s-nbcnews.com/j/newscms/2018_29/2501106/180717-engagement-ring-ac-620p_49c4dea2eae511182ac76f2321fcb631.nbcnews-fp-1200-630.jpg");
+    height: 30em;
+    width:100%;
+    opacity: .3;
+    background-repeat: no-repeat;
+   background-attachment: fixed;
+     
+  }
+  .ring-text{
+      position: absolute;
+      top: 50%;
+      left:3em;
+      right: 3em;
+      color: white;
+  }
+
+  .pink{
+      color: rgb(223, 146, 223);
+   font-family: "Brush Script MT", cursive; font-size: 3em; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; } 
+      
+  
+  /*section5*/
+  .eng1{
+      height:18em;
+      width: 22em;
+     border-radius:1rem;
+  }
+
+  .eng2{
+    height:28em;
+    width: 40em;
+   border-radius:1rem;
+}
+.eng3{
+    height:28em;
+    width: 28em;
+   border-radius:1rem;
+}
+
+.eng4{
+    height:28em;
+    width: 34em;
+   border-radius:1rem;
+}
+.eng5{
+    height:30em;
+    width:70em;
+    
+   
+}
+.container2{
+    position: relative;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container2 .content2 {
+    position: absolute; /* Position the background text */
+    bottom: 0; /* At the bottom. Use top:0 to append it to the top */
+    background: rgb(0, 0, 0); /* Fallback color */
+    background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+    color: #f1f1f1; /* Grey text */
+    width: 100%; /* Full width */
+    padding: 6em; /* Some padding */
+  }
+
+  .font{
+    font-family: 'Roboto', sans-serif;
+  }
+
+  .footer-text{
+      position: absolute;
+      left: 2em;
+      top: 3em;
+  }
+
+ 
+ 
